@@ -32,7 +32,6 @@ Global-Installs-Dashboard/
     ├── Play Store Data.csv
     └── country_category_installs.csv  (Optional)
 ```
-
 ## ⚙️ Installation and Execution
 
 ### 1. Clone the Repository
