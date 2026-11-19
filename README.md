@@ -2,7 +2,6 @@
 ## 📌 Project Overview
 **App Atlas** is an interactive data analytics dashboard built using Python and Streamlit. It helps users explore Google Play Store application install patterns, category-wise performance, and app statistics through interactive visualizations.
 The dashboard provides insights into the top application categories based on total installs, category performance, and other key metrics.
-
 It also includes time-based visualization access, allowing selected analytical charts to be displayed only during a specified time window.
 
 ## 🎯 Key Features
