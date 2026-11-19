@@ -70,7 +70,6 @@ streamlit run app.py
 ```
 ### 7. Open the Dashboard
 After execution, Streamlit will provide a local URL:
-
 ```text
 http://localhost:8501
 ```
