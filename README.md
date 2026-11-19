@@ -56,7 +56,6 @@ source venv/Scripts/activate
 venv\Scripts\activate
 ```
 **Windows – PowerShell:**
-
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
