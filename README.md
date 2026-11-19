@@ -41,7 +41,6 @@ git clone YOUR_GITHUB_REPOSITORY_URL
 ```bash
 cd Global-Installs-Dashboard
 ```
-
 ### 3. Create a Virtual Environment
 
 ```bash
