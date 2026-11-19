@@ -60,7 +60,6 @@ venv\Scripts\activate
 ```powershell
 .\venv\Scripts\Activate.ps1
 ```
-
 ### 5. Install Required Dependencies
 
 ```bash
