@@ -55,7 +55,6 @@ source venv/Scripts/activate
 ```cmd
 venv\Scripts\activate
 ```
-
 **Windows – PowerShell:**
 
 ```powershell
