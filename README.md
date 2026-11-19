@@ -61,7 +61,6 @@ venv\Scripts\activate
 .\venv\Scripts\Activate.ps1
 ```
 ### 5. Install Required Dependencies
-
 ```bash
 pip install -r requirements.txt
 ```
