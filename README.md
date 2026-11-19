@@ -4,7 +4,6 @@
 The dashboard provides insights into the top application categories based on total installs, category performance, and other key metrics.
 It also includes time-based visualization access, allowing selected analytical charts to be displayed only during a specified time window.
 ## 🎯 Key Features
-
 - **Interactive Dashboard:** Explore app installation data through a user-friendly interface.
 - **Top 5 Categories:** Identify the five eligible categories with the highest total installs.
 - **Total Installs:** View the combined installation count across eligible categories.
