@@ -1,5 +1,4 @@
 # 🌍 App Atlas – Global App Installs Intelligence Dashboard
-
 ## 📌 Project Overview
 
 **App Atlas** is an interactive data analytics dashboard built using Python and Streamlit. It helps users explore Google Play Store application install patterns, category-wise performance, and app statistics through interactive visualizations.
