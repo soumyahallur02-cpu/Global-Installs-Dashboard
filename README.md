@@ -46,7 +46,6 @@ cd Global-Installs-Dashboard
 ```bash
 python -m venv venv
 ```
-
 ### 4. Activate the Virtual Environment
 
 **Windows – Git Bash:**
