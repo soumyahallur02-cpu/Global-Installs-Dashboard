@@ -52,7 +52,6 @@ python -m venv venv
 ```bash
 source venv/Scripts/activate
 ```
-
 **Windows – Command Prompt:**
 
 ```cmd
