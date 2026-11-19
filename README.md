@@ -38,7 +38,6 @@ Global-Installs-Dashboard/
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
-
 ### 2. Navigate to the Project Folder
 
 ```bash
