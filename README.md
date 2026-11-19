@@ -15,7 +15,6 @@ It also includes time-based visualization access, allowing selected analytical c
 - **Geographical Insights:** Supports country-level visualizations when a separate country-wise dataset is provided.
 
 ## 🛠️ Technologies Used
-
 - Python
 - Streamlit
 - Pandas
