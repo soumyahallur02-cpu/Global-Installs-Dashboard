@@ -33,7 +33,6 @@ Global-Installs-Dashboard/
     └── country_category_installs.csv  (Optional)
 ```
 ## ⚙️ Installation and Execution
-
 ### 1. Clone the Repository
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
