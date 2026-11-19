@@ -72,7 +72,6 @@ After execution, Streamlit will provide a local URL:
 ```text
 http://localhost:8501
 ```
-
 Open this URL in your browser to access the dashboard.
 
 ## 📊 Dataset Requirements
