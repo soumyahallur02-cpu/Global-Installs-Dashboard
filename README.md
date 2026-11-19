@@ -35,7 +35,6 @@ Global-Installs-Dashboard/
 ## ⚙️ Installation and Execution
 
 ### 1. Clone the Repository
-
 ```bash
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
