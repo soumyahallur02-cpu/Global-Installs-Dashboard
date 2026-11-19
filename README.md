@@ -13,7 +13,6 @@ It also includes time-based visualization access, allowing selected analytical c
 - **CSV Upload:** Upload a custom Google Play Store dataset for analysis.
 - **Data Filtering:** Excludes categories beginning with A, C, G, and S from the eligible category analysis.
 - **Geographical Insights:** Supports country-level visualizations when a separate country-wise dataset is provided.
-
 ## 🛠️ Technologies Used
 - Python
 - Streamlit
