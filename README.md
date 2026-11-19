@@ -66,7 +66,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ### 6. Run the Streamlit Application
-
 ```bash
 streamlit run app.py
 ```
