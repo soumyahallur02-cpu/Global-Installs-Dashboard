@@ -20,7 +20,6 @@ It also includes time-based visualization access, allowing selected analytical c
 - NumPy
 - Plotly
 - Streamlit Autorefresh
-
 ## 📂 Project Structure
 ```text
 Global-Installs-Dashboard/
